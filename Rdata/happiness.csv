@@ -1,0 +1,461 @@
+ID,Date,Sex,Race,Age,Education,Income,IQ,Zip,Children,Happy
+1,2020-7-13,Female,White,77,"9th Grade to 12th Grade, No Diploma",25797.32,97,64432,1,Strongly Disagree
+2,2020-7-13,Female,White,58,Bachelor's Degree,69924.97,NA,62890,2,Strongly Disagree
+3,2020-7-13,Female,Black,72,Bachelor's Degree,30527.93,NA,62890,5,Disagree
+4,2020-7-13,Female,White,53,Associate's Degree,35051.4,78,24856,2,Strongly Disagree
+5,2020-7-13,Male,Hispanic,61,Associate's Degree,NA,NA,24856,3,Strongly Disagree
+6,2020-7-13,Female,Hispanic,47,Bachelor's Degree,46197.81,106,64432,0,Neutral
+7,2020-7-13,Male,Black,19,"9th Grade to 12th Grade, No Diploma",14017.21,NA,64432,1,Agree
+8,2020-7-13,Female,NA,89,"9th Grade to 12th Grade, No Diploma",29259.01,NA,79655,0,Neutral
+9,2020-7-13,Male,NA,25,Bachelor's Degree,57187.33,110,24856,0,Neutral
+10,2020-7-13,Male,White,65,Regular High School Diploma,112999.87,116,64432,3,Strongly Agree
+11,2020-7-13,Female,White,67,Bachelor's Degree,173156.7,NA,64432,1,NA
+12,2020-7-13,Female,White,58,Regular High School Diploma,20939.2,NA,63569,7,Disagree
+13,2020-7-13,Male,White,49,Bachelor's Degree,24482.7,100,63569,0,Disagree
+14,2020-7-13,Male,White,62,"9th Grade to 12th Grade, No Diploma",20709.55,NA,62890,3,Strongly Disagree
+15,2020-7-13,Male,Hispanic,68,"9th Grade to 12th Grade, No Diploma",NA,NA,64432,1,Disagree
+16,2020-7-13,Male,White,29,Bachelor's Degree,NA,NA,90070,7,Strongly Disagree
+17,2020-7-13,Female,NA,NA,Bachelor's Degree,36587.35,NA,43027,3,Strongly Disagree
+18,2020-7-13,Female,NA,31,"Some College, 1 or More Years, No Degree",14750.74,NA,24856,0,Disagree
+19,2020-7-13,Female,Other,NA,Master's Degree,65844.63,113,58980,3,Agree
+20,2020-7-13,Female,NA,37,Bachelor's Degree,13257.35,NA,62890,2,Neutral
+21,2020-7-13,Female,White,20,"9th Grade to 12th Grade, No Diploma",21739.9,NA,64432,2,Neutral
+22,2020-7-13,Male,White,36,"Some College, 1 or More Years, No Degree",14178.13,NA,79655,3,Strongly Agree
+23,2020-7-13,Male,Hispanic,42,No Schooling Completed,60659.77,NA,88084,3,Strongly Disagree
+24,2020-7-13,Male,NA,80,Regular High School Diploma,47525,NA,43027,1,Strongly Agree
+25,2020-7-13,Male,White,64,"9th Grade to 12th Grade, No Diploma",38224.4,96,58980,7,Agree
+26,2020-7-13,Male,White,49,Regular High School Diploma,15254.26,NA,24856,1,Strongly Disagree
+27,2020-7-13,Female,Hispanic,81,"Some College, 1 or More Years, No Degree",23433.71,91,79655,1,Strongly Disagree
+28,2020-7-13,Male,Black,42,Regular High School Diploma,9625.05,95,54436,4,Strongly Disagree
+29,2020-7-13,Female,NA,36,Regular High School Diploma,NA,NA,90070,3,Strongly Disagree
+30,2020-7-13,Female,Black,62,"9th Grade to 12th Grade, No Diploma",18110.65,NA,24856,2,Strongly Disagree
+31,2020-7-13,Male,Hispanic,NA,Regular High School Diploma,37012.25,107,88084,1,Strongly Disagree
+32,2020-7-13,Male,White,28,Master's Degree,53915.12,NA,63569,2,Agree
+33,2020-7-13,Male,White,46,GED or Alternative Credential,44527.47,NA,64432,3,Neutral
+34,2020-7-13,Female,White,58,Bachelor's Degree,13302.26,NA,54436,0,Strongly Disagree
+35,2020-7-13,Female,Native,57,Bachelor's Degree,75773.83,NA,64432,0,Neutral
+36,2020-7-13,Female,NA,67,"Some College, 1 or More Years, No Degree",30845.48,NA,58980,1,Disagree
+37,2020-7-13,Female,Hispanic,NA,Regular High School Diploma,113785.08,104,90070,3,NA
+38,2020-7-13,Female,NA,63,Master's Degree,83988.35,84,54436,9,Strongly Agree
+39,2020-7-13,Male,Asian,25,Master's Degree,26515.51,105,90070,0,Strongly Disagree
+40,2020-7-13,Female,Hispanic,21,Nursery School to 8th Grade,50386.53,81,43027,1,Neutral
+41,2020-7-13,Male,White,41,"9th Grade to 12th Grade, No Diploma",20340.1,NA,88084,3,Agree
+42,2020-7-13,Female,Hispanic,32,GED or Alternative Credential,55538.76,NA,62890,7,Strongly Disagree
+43,2020-8-13,Male,Bi-Racial,84,Regular High School Diploma,23598.03,NA,58980,1,Strongly Disagree
+44,2020-8-13,Male,White,79,Regular High School Diploma,57224.32,97,79655,1,Strongly Disagree
+45,2020-8-13,Male,White,21,Regular High School Diploma,94073.18,85,79655,4,Strongly Agree
+46,2020-8-13,Male,Hispanic,41,"Some College, Less than 1 Year",79807.33,NA,79655,1,Agree
+47,2020-8-13,Male,White,38,Nursery School to 8th Grade,22016.09,NA,24856,1,Disagree
+48,2020-8-13,Male,Hispanic,72,GED or Alternative Credential,30074.93,NA,24856,2,Strongly Disagree
+49,2020-8-13,Male,White,72,Master's Degree,16605.65,NA,43027,1,Disagree
+50,2020-8-13,Male,White,57,Doctorate Degree,29417.87,104,63569,2,Strongly Disagree
+51,2020-8-13,Female,Black,77,"Some College, 1 or More Years, No Degree",30185.89,NA,58980,1,NA
+52,2020-8-13,Male,NA,33,Associate's Degree,19191.68,NA,58980,3,Agree
+53,2020-8-13,Female,White,68,Regular High School Diploma,3470.95,NA,24856,8,Strongly Disagree
+54,2020-8-13,Female,White,86,Associate's Degree,40764.62,NA,79655,4,NA
+55,2020-8-13,Male,White,83,"9th Grade to 12th Grade, No Diploma",66665.37,NA,79655,1,Agree
+56,2020-8-13,Female,White,71,Associate's Degree,83801.62,NA,24856,1,Strongly Disagree
+57,2020-8-13,Male,White,68,Bachelor's Degree,15525.64,NA,79655,0,Agree
+58,2020-8-13,Female,Black,49,"Some College, 1 or More Years, No Degree",18273.97,NA,24856,0,Strongly Agree
+59,2020-8-13,Male,White,65,Bachelor's Degree,24675.35,NA,58980,0,Neutral
+60,2020-8-13,Female,Hispanic,38,"Some College, 1 or More Years, No Degree",17410.88,NA,63569,3,Agree
+61,2020-8-13,Female,NA,83,Bachelor's Degree,NA,NA,79655,3,Disagree
+62,2020-8-13,Male,NA,43,Bachelor's Degree,39043.57,NA,88084,0,Neutral
+63,2020-8-13,Female,White,38,"Some College, 1 or More Years, No Degree",18656.8,NA,90070,0,Strongly Agree
+64,2020-8-13,Female,White,19,Regular High School Diploma,36292.82,NA,88084,1,Disagree
+65,2020-8-13,Female,NA,87,NA,26137.39,117,88084,0,Strongly Agree
+66,2020-8-13,Male,NA,79,NA,52698.39,NA,54436,7,Strongly Disagree
+67,2020-8-13,Female,White,22,NA,21238.59,91,63569,2,Strongly Disagree
+68,2020-8-13,Male,White,NA,Associate's Degree,10039.01,93,54436,4,Disagree
+69,2020-8-13,Female,White,44,Professional School Degree,68640.38,94,54436,3,Neutral
+70,2020-8-13,Female,Hispanic,72,Bachelor's Degree,NA,NA,90070,0,Strongly Disagree
+71,2020-8-13,Female,Black,NA,Regular High School Diploma,66166.7,NA,90070,2,Disagree
+72,2020-8-13,Male,White,24,NA,79291.64,NA,79655,1,Strongly Agree
+73,2020-8-13,Female,Bi-Racial,19,Bachelor's Degree,23330.12,NA,64432,0,Strongly Disagree
+74,2020-8-13,Male,Black,58,NA,33034.29,73,62890,3,Strongly Disagree
+75,2020-8-13,Male,White,55,Associate's Degree,28683.76,NA,63569,1,Disagree
+76,2020-8-13,Male,Black,30,Regular High School Diploma,39990.82,NA,54436,1,Disagree
+77,2020-8-13,Female,White,68,"Some College, Less than 1 Year",NA,NA,88084,3,Agree
+78,2020-9-13,Female,White,42,Regular High School Diploma,126024.42,NA,58980,1,Neutral
+79,2020-9-13,Female,White,51,Regular High School Diploma,12094.01,101,58980,1,Strongly Agree
+80,2020-9-13,Female,White,34,"9th Grade to 12th Grade, No Diploma",20422.84,87,88084,0,Agree
+81,2020-9-13,Female,White,NA,Master's Degree,58813.19,106,58980,1,Strongly Agree
+82,2020-9-13,Male,White,64,Regular High School Diploma,49448.12,99,58980,0,Strongly Disagree
+83,2020-9-13,Male,White,37,"9th Grade to 12th Grade, No Diploma",NA,NA,88084,0,Agree
+84,2020-9-13,Male,NA,57,"Some College, 1 or More Years, No Degree",61324.18,NA,79655,0,Strongly Agree
+85,2020-9-13,Male,White,81,Regular High School Diploma,77979.95,95,63569,0,Agree
+86,2020-9-13,Female,White,62,NA,91294.5,NA,90070,1,Neutral
+87,2020-9-13,Male,NA,39,GED or Alternative Credential,28935.36,NA,79655,0,Neutral
+88,2020-9-13,Female,NA,68,Regular High School Diploma,30282.34,NA,43027,0,Agree
+89,2020-9-13,Female,White,75,Regular High School Diploma,161673.99,NA,58980,1,Strongly Disagree
+90,2020-9-13,Male,White,55,Regular High School Diploma,33883.44,NA,62890,0,Disagree
+91,2020-9-13,Male,White,33,Regular High School Diploma,14725.27,NA,24856,3,Neutral
+92,2020-9-13,Male,NA,57,NA,38485.94,NA,90070,4,Strongly Agree
+93,2020-9-13,Male,NA,62,"9th Grade to 12th Grade, No Diploma",26903.92,NA,43027,1,Strongly Agree
+94,2020-9-13,Female,Hispanic,73,Master's Degree,NA,NA,63569,10,Disagree
+95,2020-9-13,Female,Hispanic,NA,"Some College, Less than 1 Year",16895.7,NA,79655,3,Strongly Agree
+96,2020-9-13,Male,White,52,GED or Alternative Credential,98550.95,NA,64432,0,Strongly Agree
+97,2020-9-13,Female,NA,52,GED or Alternative Credential,35714.62,NA,62890,0,Strongly Agree
+98,2020-9-13,Female,White,NA,Bachelor's Degree,46425.31,NA,43027,4,Disagree
+99,2020-9-13,Male,Hispanic,80,Regular High School Diploma,78717.17,NA,63569,0,Neutral
+100,2020-9-13,Male,White,37,"9th Grade to 12th Grade, No Diploma",24995.85,102,79655,0,Agree
+101,2020-9-13,Male,White,30,Master's Degree,5044.79,NA,62890,3,Strongly Disagree
+102,2020-9-13,Female,White,82,Bachelor's Degree,109672.16,NA,43027,2,Disagree
+103,2020-9-13,Male,White,86,"9th Grade to 12th Grade, No Diploma",73341.83,NA,58980,1,Disagree
+104,2020-9-13,Male,Asian,84,Regular High School Diploma,17398.49,NA,64432,2,Strongly Disagree
+105,2020-9-13,Male,White,34,Regular High School Diploma,NA,NA,24856,7,Agree
+106,2020-9-13,Female,NA,62,Associate's Degree,30387.14,85,79655,10,NA
+107,2020-9-13,Female,Hispanic,NA,NA,18968.07,94,90070,4,Strongly Agree
+108,2020-9-13,Female,White,40,Bachelor's Degree,7597.09,NA,54436,0,Strongly Disagree
+109,2020-9-13,Female,White,53,"Some College, 1 or More Years, No Degree",14133.06,111,24856,2,Strongly Agree
+110,2020-9-13,Female,White,85,"Some College, Less than 1 Year",32492.99,NA,54436,2,Disagree
+111,2020-9-13,Female,NA,NA,Professional School Degree,NA,NA,79655,0,Strongly Agree
+112,2020-9-13,Male,Hispanic,39,Bachelor's Degree,15389.61,NA,88084,1,Disagree
+113,2020-9-13,Male,White,54,Regular High School Diploma,83405.97,NA,43027,3,Disagree
+114,2020-9-13,Male,White,55,Regular High School Diploma,62097.38,NA,43027,2,Disagree
+115,2020-9-13,Female,NA,87,Regular High School Diploma,73953.26,NA,63569,2,NA
+116,2020-9-13,Female,White,58,Bachelor's Degree,7355.12,NA,79655,4,Neutral
+117,2020-9-13,Female,White,69,Bachelor's Degree,NA,NA,58980,2,Strongly Disagree
+118,2020-9-13,Male,White,65,Bachelor's Degree,82242.87,NA,24856,1,Neutral
+119,2020-9-13,Female,Asian,83,NA,22894.49,NA,58980,2,Disagree
+120,2020-10-13,Male,White,76,Associate's Degree,13785.74,107,58980,0,Strongly Disagree
+121,2020-10-13,Female,Black,58,"Some College, Less than 1 Year",43092.1,118,79655,3,Disagree
+122,2020-10-13,Male,Hispanic,45,NA,28207.35,94,63569,1,Disagree
+123,2020-10-13,Male,NA,70,"Some College, 1 or More Years, No Degree",2050.62,107,62890,3,Strongly Agree
+124,2020-10-13,Female,White,78,Associate's Degree,37705.6,114,43027,1,Neutral
+125,2020-10-13,Female,NA,89,NA,36407.71,NA,62890,1,Strongly Agree
+126,2020-10-13,Female,Hispanic,NA,Associate's Degree,104823.56,NA,54436,1,Neutral
+127,2020-10-13,Female,White,45,"9th Grade to 12th Grade, No Diploma",65678.8,NA,43027,2,Agree
+128,2020-10-13,Male,White,NA,Master's Degree,102007.88,NA,54436,1,Agree
+129,2020-10-13,Female,White,50,Regular High School Diploma,8519.81,118,79655,0,Strongly Agree
+130,2020-10-13,Male,Black,63,Regular High School Diploma,65827.43,NA,54436,2,Agree
+131,2020-10-13,Male,White,68,GED or Alternative Credential,21420.55,NA,79655,0,Strongly Agree
+132,2020-10-13,Female,Hispanic,71,Associate's Degree,6099.94,NA,62890,0,Strongly Agree
+133,2020-10-13,Male,NA,NA,Regular High School Diploma,15565.41,108,54436,0,Strongly Agree
+134,2020-10-13,Male,Black,42,"9th Grade to 12th Grade, No Diploma",106689.84,NA,43027,1,Strongly Disagree
+135,2020-10-13,Female,Hispanic,51,"Some College, Less than 1 Year",34823.57,NA,63569,0,Strongly Disagree
+136,2020-10-13,Female,NA,NA,Bachelor's Degree,19655.74,102,88084,1,Neutral
+137,2020-10-13,Male,White,27,NA,28293.45,105,58980,2,Strongly Disagree
+138,2020-10-13,Male,NA,85,"Some College, 1 or More Years, No Degree",40875.48,NA,79655,0,Neutral
+139,2020-10-13,Male,White,NA,Associate's Degree,NA,NA,79655,4,Strongly Disagree
+140,2020-10-13,Male,Hispanic,21,Associate's Degree,27572.01,NA,58980,1,Strongly Agree
+141,2020-10-13,Male,Hispanic,73,Bachelor's Degree,45105.13,NA,90070,1,NA
+142,2020-10-13,Male,Bi-Racial,54,Regular High School Diploma,7479.53,NA,90070,4,Disagree
+143,2020-10-13,Female,NA,78,"9th Grade to 12th Grade, No Diploma",68157.22,NA,88084,2,Strongly Disagree
+144,2020-10-13,Female,White,73,"Some College, Less than 1 Year",NA,91,62890,2,Disagree
+145,2020-10-13,Female,Black,61,"Some College, 1 or More Years, No Degree",33535.11,100,90070,3,Strongly Disagree
+146,2020-10-13,Male,Hispanic,NA,Bachelor's Degree,NA,NA,62890,3,Strongly Disagree
+147,2020-10-13,Female,NA,NA,Regular High School Diploma,23963.6,103,43027,0,Disagree
+148,2020-10-13,Male,White,35,"Some College, 1 or More Years, No Degree",39423.7,107,79655,3,Agree
+149,2020-10-13,Female,White,21,Regular High School Diploma,38632.86,NA,90070,1,Disagree
+150,2020-10-13,Female,White,72,"Some College, 1 or More Years, No Degree",9820.66,NA,88084,4,Strongly Disagree
+151,2020-10-13,Female,Black,81,"Some College, Less than 1 Year",25961.54,NA,62890,3,Agree
+152,2020-10-13,Male,Black,88,Nursery School to 8th Grade,45213.38,NA,62890,0,Strongly Disagree
+153,2020-10-13,Male,NA,NA,"Some College, 1 or More Years, No Degree",22502.02,NA,79655,3,Strongly Disagree
+154,2020-10-13,Female,White,NA,"9th Grade to 12th Grade, No Diploma",46513.24,NA,64432,3,Agree
+155,2020-10-13,Male,White,63,Associate's Degree,50475.37,NA,62890,0,Strongly Agree
+156,2020-10-13,Male,White,83,Regular High School Diploma,17231.66,NA,58980,1,Disagree
+157,2020-10-13,Female,Other,NA,"Some College, Less than 1 Year",27439.35,104,64432,2,Agree
+158,2020-10-13,Female,White,20,Master's Degree,53036.12,NA,24856,1,Strongly Agree
+159,2020-10-13,Male,NA,57,Associate's Degree,NA,NA,58980,3,Neutral
+160,2020-10-13,Female,Native,42,Bachelor's Degree,NA,104,79655,5,Strongly Disagree
+161,2020-11-13,Male,NA,73,Master's Degree,NA,NA,58980,1,Neutral
+162,2020-11-13,Female,Hispanic,NA,"9th Grade to 12th Grade, No Diploma",25129.96,80,90070,0,Strongly Disagree
+163,2020-11-13,Female,Native,24,Bachelor's Degree,14280.44,NA,90070,0,Strongly Disagree
+164,2020-11-13,Female,Hispanic,73,Bachelor's Degree,26593.91,NA,43027,2,Disagree
+165,2020-11-13,Female,White,18,"9th Grade to 12th Grade, No Diploma",44480.42,NA,43027,2,Strongly Agree
+166,2020-11-13,Male,Hispanic,65,Bachelor's Degree,86242.04,NA,62890,0,Strongly Disagree
+167,2020-11-13,Female,Black,77,Regular High School Diploma,4890.04,NA,79655,0,Agree
+168,2020-11-13,Female,White,63,Regular High School Diploma,4114.11,NA,63569,4,Disagree
+169,2020-11-13,Female,Hispanic,87,Master's Degree,NA,NA,62890,2,Agree
+170,2020-11-13,Female,Black,32,Regular High School Diploma,31974.55,NA,43027,0,Strongly Agree
+171,2020-11-13,Female,NA,69,Regular High School Diploma,6971.25,NA,63569,5,Agree
+172,2020-11-13,Female,NA,66,No Schooling Completed,22091.24,NA,58980,1,Neutral
+173,2020-11-13,Male,White,75,"Some College, Less than 1 Year",17484.87,NA,62890,3,Disagree
+174,2020-11-13,Female,NA,38,"9th Grade to 12th Grade, No Diploma",NA,NA,24856,10,Strongly Disagree
+175,2020-11-13,Male,Black,37,Regular High School Diploma,79857.62,NA,58980,0,Strongly Disagree
+176,2020-11-13,Female,White,44,Regular High School Diploma,6532.28,NA,79655,4,Neutral
+177,2020-11-13,Female,White,42,Regular High School Diploma,69209.97,108,54436,3,Strongly Agree
+178,2020-11-13,Female,White,84,"Some College, 1 or More Years, No Degree",10760.57,99,54436,3,Disagree
+179,2020-11-13,Female,White,20,Associate's Degree,14192.45,107,24856,1,Disagree
+180,2020-11-13,Male,Hispanic,38,Regular High School Diploma,NA,NA,88084,1,Strongly Agree
+181,2020-11-13,Female,NA,NA,"Some College, 1 or More Years, No Degree",6683.12,84,64432,0,Agree
+182,2020-11-13,Female,Hispanic,55,Regular High School Diploma,48631.5,98,54436,3,Disagree
+183,2020-11-13,Male,White,71,Regular High School Diploma,NA,NA,62890,5,Agree
+184,2020-11-13,Male,White,60,Regular High School Diploma,NA,NA,58980,0,Strongly Disagree
+185,2020-11-13,Male,Hispanic,71,Regular High School Diploma,71235.74,NA,79655,1,Neutral
+186,2020-11-13,Male,Hispanic,31,Bachelor's Degree,29243.98,NA,63569,0,Neutral
+187,2020-11-13,Female,Black,34,Doctorate Degree,63305.9,NA,88084,0,Agree
+188,2020-11-13,Female,White,61,Regular High School Diploma,21929.89,106,64432,0,Disagree
+189,2020-11-13,Male,White,58,Bachelor's Degree,18640.32,96,58980,3,Neutral
+190,2020-11-13,Female,White,42,"9th Grade to 12th Grade, No Diploma",20888.15,94,64432,0,Strongly Agree
+191,2020-11-13,Female,Black,81,"Some College, Less than 1 Year",18825.57,NA,43027,0,Strongly Disagree
+192,2020-11-13,Female,White,45,"Some College, 1 or More Years, No Degree",42597.24,NA,24856,2,Strongly Agree
+193,2020-11-13,Female,White,NA,"Some College, 1 or More Years, No Degree",NA,NA,64432,3,Strongly Disagree
+194,2020-12-13,Male,Black,48,Associate's Degree,6304.53,100,88084,9,Neutral
+195,2020-12-13,Male,Hispanic,85,"9th Grade to 12th Grade, No Diploma",89588.6,NA,63569,1,Neutral
+196,2020-12-13,Female,NA,84,Bachelor's Degree,10625.68,106,24856,4,Strongly Disagree
+197,2020-12-13,Male,NA,88,"9th Grade to 12th Grade, No Diploma",46432.31,NA,79655,0,Disagree
+198,2020-12-13,Male,Hispanic,72,"Some College, Less than 1 Year",31456.07,109,54436,2,Strongly Disagree
+199,2020-12-13,Female,White,49,Nursery School to 8th Grade,14411.23,NA,90070,6,Strongly Disagree
+200,2020-12-13,Female,Hispanic,82,NA,52135.09,81,58980,3,Disagree
+201,2020-12-13,Female,White,43,"Some College, 1 or More Years, No Degree",38090.72,NA,58980,2,Strongly Agree
+202,2020-12-13,Female,NA,67,Master's Degree,96314.38,NA,63569,2,Strongly Disagree
+203,2020-12-13,Female,White,NA,Master's Degree,58499.78,110,90070,7,Neutral
+204,2020-12-13,Female,Hispanic,68,"Some College, 1 or More Years, No Degree",39584.55,NA,63569,5,Strongly Agree
+205,2020-12-13,Male,White,47,Regular High School Diploma,19797.37,NA,79655,0,Disagree
+206,2020-12-13,Male,Hispanic,20,Professional School Degree,19293.23,NA,58980,9,NA
+207,2020-12-13,Female,White,86,Associate's Degree,63818.41,NA,58980,0,Agree
+208,2020-12-13,Male,White,19,Regular High School Diploma,40529.61,92,63569,3,Agree
+209,2020-12-13,Male,Black,NA,"Some College, 1 or More Years, No Degree",27074.69,110,63569,1,Strongly Agree
+210,2020-12-13,Male,NA,52,Bachelor's Degree,39099.14,NA,58980,1,Strongly Agree
+211,2020-12-13,Female,White,74,Regular High School Diploma,31970.43,NA,79655,1,Disagree
+212,2020-12-13,Female,Bi-Racial,59,Associate's Degree,28919.65,111,64432,3,Neutral
+213,2020-12-13,Female,White,71,Nursery School to 8th Grade,49480.29,91,54436,1,Strongly Agree
+214,2020-12-13,Male,NA,66,Regular High School Diploma,46592.89,NA,64432,1,Disagree
+215,2020-12-13,Male,Hispanic,49,"Some College, 1 or More Years, No Degree",31517.68,NA,54436,3,Strongly Disagree
+216,2020-12-13,Female,White,62,"9th Grade to 12th Grade, No Diploma",38403.3,107,63569,1,Neutral
+217,2020-12-13,Female,Hispanic,71,Professional School Degree,NA,NA,62890,3,Disagree
+218,2020-12-13,Male,White,64,Associate's Degree,42175.32,NA,24856,2,Agree
+219,2020-12-13,Female,NA,78,"9th Grade to 12th Grade, No Diploma",59978.77,80,24856,2,Strongly Disagree
+220,2020-12-13,Male,NA,78,Regular High School Diploma,NA,104,88084,4,Strongly Disagree
+221,2020-12-13,Female,White,22,Nursery School to 8th Grade,38704.69,NA,62890,0,Disagree
+222,2020-12-13,Female,Black,73,NA,23286.42,NA,64432,3,Neutral
+223,2020-12-13,Male,White,28,No Schooling Completed,51660.17,NA,54436,1,Strongly Agree
+224,2020-12-13,Male,White,66,"9th Grade to 12th Grade, No Diploma",32265.65,NA,24856,0,Strongly Agree
+225,2021-1-13,Male,White,76,NA,23638.45,97,62890,1,Strongly Agree
+226,2021-1-13,Female,White,60,Master's Degree,58568.66,NA,58980,0,Disagree
+227,2021-1-13,Female,White,65,GED or Alternative Credential,44216.45,NA,58980,0,Strongly Agree
+228,2021-1-13,Female,White,24,"9th Grade to 12th Grade, No Diploma",26902.8,99,64432,2,Neutral
+229,2021-1-13,Male,White,88,Associate's Degree,15878.35,NA,24856,2,Strongly Disagree
+230,2021-1-13,Female,NA,88,"Some College, Less than 1 Year",3778.63,NA,64432,2,Strongly Agree
+231,2021-1-13,Female,Black,63,Professional School Degree,NA,NA,64432,2,Agree
+232,2021-1-13,Male,Asian,69,"9th Grade to 12th Grade, No Diploma",65904.7,NA,43027,2,Strongly Disagree
+233,2021-1-13,Female,White,69,"Some College, 1 or More Years, No Degree",52263.81,NA,54436,2,Strongly Disagree
+234,2021-1-13,Male,NA,35,Nursery School to 8th Grade,26652.04,109,24856,0,Agree
+235,2021-1-13,Female,White,26,Bachelor's Degree,43490.52,NA,43027,1,Agree
+236,2021-1-13,Male,White,72,"Some College, Less than 1 Year",17398.05,99,90070,1,Strongly Disagree
+237,2021-1-13,Male,Hispanic,21,"9th Grade to 12th Grade, No Diploma",90076.33,85,43027,0,NA
+238,2021-1-13,Male,White,71,Bachelor's Degree,15467.33,NA,24856,2,Disagree
+239,2021-1-13,Male,Black,58,Regular High School Diploma,17726.12,NA,54436,3,Disagree
+240,2021-1-13,Female,White,61,Regular High School Diploma,74898.83,NA,64432,0,Agree
+241,2021-1-13,Male,NA,29,Bachelor's Degree,NA,100,62890,4,Neutral
+242,2021-1-13,Male,NA,70,"Some College, Less than 1 Year",66690.52,106,43027,1,Strongly Agree
+243,2021-1-13,Female,Hispanic,64,Bachelor's Degree,25098.44,NA,62890,1,NA
+244,2021-1-13,Male,Hispanic,60,Bachelor's Degree,NA,NA,90070,4,Strongly Agree
+245,2021-1-13,Female,White,19,Nursery School to 8th Grade,78874.6,77,63569,0,Agree
+246,2021-1-13,Male,NA,64,Regular High School Diploma,31612.03,NA,58980,4,Neutral
+247,2021-1-13,Female,Bi-Racial,55,Regular High School Diploma,9796.58,NA,90070,1,Strongly Agree
+248,2021-1-13,Female,Hispanic,77,Master's Degree,35542.9,93,54436,3,Strongly Disagree
+249,2021-1-13,Female,Black,54,Regular High School Diploma,5291,NA,64432,4,Disagree
+250,2021-1-13,Male,Black,24,Bachelor's Degree,15955.67,NA,58980,3,Agree
+251,2021-1-13,Male,Other,34,Professional School Degree,10710.08,NA,63569,1,Disagree
+252,2021-1-13,Male,White,85,NA,14104.03,NA,63569,1,Neutral
+253,2021-1-13,Female,White,20,Master's Degree,76051.46,NA,24856,1,Agree
+254,2021-1-13,Male,White,45,Bachelor's Degree,38989.41,NA,54436,1,Disagree
+255,2021-1-13,Female,White,NA,"9th Grade to 12th Grade, No Diploma",8663.88,NA,90070,0,Strongly Agree
+256,2021-1-13,Male,Hispanic,81,Bachelor's Degree,35907.03,NA,90070,1,Disagree
+257,2021-1-13,Male,NA,57,Bachelor's Degree,47353.9,NA,54436,0,Disagree
+258,2021-1-13,Male,Black,46,Bachelor's Degree,68336.71,106,64432,2,Agree
+259,2021-1-13,Female,White,61,Master's Degree,64694.31,105,24856,2,Agree
+260,2021-1-13,Male,White,31,Regular High School Diploma,9708.22,NA,54436,1,Agree
+261,2021-1-13,Male,White,70,Regular High School Diploma,33436.05,NA,79655,1,Strongly Agree
+262,2021-1-13,Female,White,74,Nursery School to 8th Grade,41685.5,NA,90070,1,Neutral
+263,2021-1-13,Female,White,NA,"Some College, Less than 1 Year",38803.25,NA,62890,3,Strongly Agree
+264,2021-1-13,Male,Native,75,Bachelor's Degree,27749.58,NA,88084,0,Neutral
+265,2021-1-13,Female,White,NA,Bachelor's Degree,82880.13,NA,43027,2,Strongly Agree
+266,2021-1-13,Male,Asian,66,"Some College, Less than 1 Year",91972.51,NA,58980,1,Agree
+267,2021-1-13,Female,White,44,Nursery School to 8th Grade,66922.63,NA,64432,0,Disagree
+268,2021-1-13,Female,Hispanic,54,"Some College, Less than 1 Year",43798.89,NA,63569,7,Neutral
+269,2021-1-13,Female,NA,86,"9th Grade to 12th Grade, No Diploma",19129.01,NA,62890,0,Disagree
+270,2021-1-13,Female,Hispanic,49,Bachelor's Degree,28163.54,NA,64432,4,Neutral
+271,2021-1-13,Male,NA,27,Bachelor's Degree,103641.99,94,62890,0,Strongly Disagree
+272,2021-2-13,Female,White,19,Regular High School Diploma,47257.38,NA,58980,0,Disagree
+273,2021-2-13,Female,NA,72,"Some College, 1 or More Years, No Degree",56541.86,NA,24856,4,Neutral
+274,2021-2-13,Female,White,82,Regular High School Diploma,NA,NA,54436,2,Agree
+275,2021-2-13,Female,NA,84,"9th Grade to 12th Grade, No Diploma",17141.93,110,62890,2,Agree
+276,2021-2-13,Female,Hispanic,39,"9th Grade to 12th Grade, No Diploma",16378.5,NA,88084,2,Neutral
+277,2021-2-13,Male,White,48,Regular High School Diploma,48008.36,NA,62890,8,Agree
+278,2021-2-13,Female,NA,65,NA,25505.47,NA,58980,0,NA
+279,2021-2-13,Female,White,48,Master's Degree,34171.26,NA,64432,1,Strongly Agree
+280,2021-2-13,Female,White,62,"Some College, 1 or More Years, No Degree",48058.33,98,63569,1,Disagree
+281,2021-2-13,Male,White,64,Regular High School Diploma,26198.76,NA,54436,0,Agree
+282,2021-2-13,Male,Asian,37,Bachelor's Degree,86259.35,NA,79655,2,Agree
+283,2021-2-13,Female,Hispanic,83,Regular High School Diploma,36226.06,102,24856,0,Strongly Agree
+284,2021-2-13,Female,Hispanic,NA,Bachelor's Degree,77526.16,NA,79655,0,Neutral
+285,2021-2-13,Male,NA,66,Regular High School Diploma,48264.06,NA,62890,9,Disagree
+286,2021-2-13,Male,Black,72,Associate's Degree,36075.09,NA,43027,2,Agree
+287,2021-2-13,Female,NA,39,Associate's Degree,53634.28,107,58980,2,Strongly Agree
+288,2021-2-13,Female,White,75,Regular High School Diploma,18705.45,92,43027,1,Disagree
+289,2021-2-13,Male,NA,25,GED or Alternative Credential,34484.04,NA,62890,1,Agree
+290,2021-2-13,Female,Black,29,Regular High School Diploma,33984.26,NA,64432,1,Strongly Disagree
+291,2021-2-13,Female,Asian,69,Professional School Degree,21353.83,NA,63569,2,Disagree
+292,2021-2-13,Female,White,65,Regular High School Diploma,43635.79,NA,64432,2,Neutral
+293,2021-2-13,Male,White,60,"9th Grade to 12th Grade, No Diploma",24491.84,NA,90070,1,Strongly Disagree
+294,2021-2-13,Female,White,38,"Some College, Less than 1 Year",NA,NA,54436,3,Agree
+295,2021-2-13,Male,NA,63,"9th Grade to 12th Grade, No Diploma",46483.43,NA,43027,8,Strongly Disagree
+296,2021-2-13,Male,Asian,56,"9th Grade to 12th Grade, No Diploma",53691.3,NA,43027,9,Neutral
+297,2021-2-13,Male,NA,41,"Some College, Less than 1 Year",38660.34,101,90070,3,Agree
+298,2021-2-13,Male,Hispanic,73,"9th Grade to 12th Grade, No Diploma",NA,104,63569,0,Disagree
+299,2021-2-13,Female,Asian,82,GED or Alternative Credential,13139.93,93,90070,6,Strongly Agree
+300,2021-2-13,Female,Hispanic,40,Master's Degree,41870.95,102,54436,2,Agree
+301,2021-2-13,Female,NA,78,"9th Grade to 12th Grade, No Diploma",25768.07,NA,79655,4,NA
+302,2021-2-13,Male,NA,47,"Some College, Less than 1 Year",48771.24,NA,54436,4,Strongly Agree
+303,2021-2-13,Female,Asian,35,Associate's Degree,55842.18,NA,63569,1,Agree
+304,2021-2-13,Female,White,41,"Some College, 1 or More Years, No Degree",NA,NA,63569,7,Disagree
+305,2021-2-13,Female,Black,31,Regular High School Diploma,18909.55,108,24856,0,Agree
+306,2021-3-13,Female,Hispanic,25,"9th Grade to 12th Grade, No Diploma",12316.69,NA,90070,2,NA
+307,2021-3-13,Female,NA,NA,"Some College, 1 or More Years, No Degree",7090.86,110,63569,1,Neutral
+308,2021-3-13,Female,White,85,Regular High School Diploma,52737.2,NA,54436,1,Disagree
+309,2021-3-13,Female,NA,36,Regular High School Diploma,58508.72,NA,62890,0,Strongly Disagree
+310,2021-3-13,Female,Asian,65,Regular High School Diploma,34462.2,NA,54436,3,Strongly Agree
+311,2021-3-13,Female,White,49,Regular High School Diploma,55430.45,NA,58980,2,Strongly Agree
+312,2021-3-13,Male,White,45,"9th Grade to 12th Grade, No Diploma",28294.9,NA,62890,3,Strongly Agree
+313,2021-3-13,Male,Asian,NA,"Some College, 1 or More Years, No Degree",15076.78,NA,62890,1,Strongly Disagree
+314,2021-3-13,Female,NA,53,"Some College, Less than 1 Year",98751.85,NA,58980,1,Neutral
+315,2021-3-13,Male,White,24,"Some College, 1 or More Years, No Degree",19579.86,108,90070,4,Agree
+316,2021-3-13,Male,White,61,Master's Degree,8917,NA,88084,5,Neutral
+317,2021-3-13,Male,NA,25,Associate's Degree,68181.29,NA,88084,2,Strongly Disagree
+318,2021-3-13,Male,White,81,GED or Alternative Credential,138431.03,NA,24856,1,Agree
+319,2021-3-13,Male,White,NA,"9th Grade to 12th Grade, No Diploma",25612.72,90,58980,2,Disagree
+320,2021-3-13,Female,Black,32,Bachelor's Degree,148086.32,NA,62890,1,Strongly Disagree
+321,2021-3-13,Female,White,59,Bachelor's Degree,16608.16,NA,63569,2,Agree
+322,2021-3-13,Male,Black,83,Bachelor's Degree,8054.37,NA,64432,1,Neutral
+323,2021-3-13,Female,White,31,Regular High School Diploma,54514.79,NA,54436,0,Strongly Agree
+324,2021-3-13,Female,White,30,"Some College, 1 or More Years, No Degree",56513.3,NA,63569,0,Strongly Disagree
+325,2021-3-13,Male,White,64,Bachelor's Degree,66840.58,103,54436,1,Strongly Disagree
+326,2021-3-13,Male,NA,77,"Some College, 1 or More Years, No Degree",54381.64,NA,62890,0,Agree
+327,2021-3-13,Male,White,31,"Some College, 1 or More Years, No Degree",NA,NA,90070,3,Neutral
+328,2021-3-13,Female,White,69,Master's Degree,NA,NA,62890,8,Strongly Disagree
+329,2021-3-13,Female,White,42,Associate's Degree,21904.61,NA,62890,0,Agree
+330,2021-3-13,Male,Hispanic,78,Bachelor's Degree,67025.44,NA,43027,1,Neutral
+331,2021-3-13,Male,White,86,Associate's Degree,10299.21,NA,79655,1,Disagree
+332,2021-3-13,Female,Hispanic,34,Nursery School to 8th Grade,52377.39,107,79655,8,Strongly Agree
+333,2021-3-13,Female,White,20,"9th Grade to 12th Grade, No Diploma",29585.33,NA,58980,0,Disagree
+334,2021-3-13,Female,Black,78,"Some College, Less than 1 Year",60778.3,102,58980,1,Strongly Agree
+335,2021-3-13,Female,NA,NA,NA,39718.19,NA,24856,1,Disagree
+336,2021-3-13,Female,White,26,"Some College, Less than 1 Year",15642.61,NA,24856,0,Strongly Disagree
+337,2021-3-13,Male,White,23,"Some College, 1 or More Years, No Degree",NA,NA,54436,3,Strongly Agree
+338,2021-3-13,Female,Asian,44,"9th Grade to 12th Grade, No Diploma",2793,NA,90070,3,Agree
+339,2021-3-13,Male,White,38,"Some College, 1 or More Years, No Degree",37666.21,NA,54436,1,Agree
+340,2021-3-13,Male,White,41,"Some College, 1 or More Years, No Degree",18262.58,114,43027,1,Strongly Disagree
+341,2021-3-13,Male,NA,74,Associate's Degree,59401.62,104,79655,9,Strongly Agree
+342,2021-3-13,Male,White,59,Bachelor's Degree,40612.31,110,43027,1,Neutral
+343,2021-3-13,Male,Hispanic,85,Bachelor's Degree,20087.49,NA,63569,8,Disagree
+344,2021-3-13,Female,White,23,Nursery School to 8th Grade,56199.46,NA,64432,0,Agree
+345,2021-3-13,Female,White,32,Nursery School to 8th Grade,26332.57,NA,24856,0,Strongly Disagree
+346,2021-3-13,Female,White,49,Bachelor's Degree,25224.34,NA,43027,4,Strongly Disagree
+347,2021-3-13,Male,Black,36,Associate's Degree,17804.66,101,64432,1,Agree
+348,2021-4-13,Male,Hispanic,79,"Some College, Less than 1 Year",19006.53,NA,90070,1,Agree
+349,2021-4-13,Female,NA,69,NA,NA,NA,90070,2,NA
+350,2021-4-13,Male,Black,22,"Some College, 1 or More Years, No Degree",11005.09,NA,88084,5,Agree
+351,2021-4-13,Female,NA,83,"Some College, Less than 1 Year",20047.94,NA,58980,3,Strongly Agree
+352,2021-4-13,Male,White,50,Master's Degree,45796.42,NA,54436,0,Strongly Agree
+353,2021-4-13,Male,Black,62,GED or Alternative Credential,59469.74,93,88084,0,Strongly Agree
+354,2021-4-13,Male,Bi-Racial,83,Doctorate Degree,16885.62,105,90070,0,Strongly Disagree
+355,2021-4-13,Male,NA,55,Master's Degree,135960.46,NA,64432,8,Neutral
+356,2021-4-13,Female,White,70,Bachelor's Degree,NA,NA,62890,4,Agree
+357,2021-4-13,Male,White,48,NA,9112.99,79,64432,0,Strongly Agree
+358,2021-4-13,Female,NA,NA,Associate's Degree,47598.56,NA,58980,2,Neutral
+359,2021-4-13,Female,White,76,Bachelor's Degree,15009.13,102,63569,7,NA
+360,2021-4-13,Female,Hispanic,21,"Some College, 1 or More Years, No Degree",NA,90,24856,2,Neutral
+361,2021-4-13,Male,White,23,Doctorate Degree,14600.54,90,62890,1,Neutral
+362,2021-4-13,Female,White,68,Master's Degree,NA,NA,79655,1,Neutral
+363,2021-4-13,Female,Hispanic,78,Associate's Degree,139980.78,126,58980,0,Strongly Disagree
+364,2021-4-13,Female,White,43,Bachelor's Degree,NA,NA,79655,8,Neutral
+365,2021-4-13,Male,White,74,"Some College, Less than 1 Year",29780.44,NA,64432,0,Strongly Disagree
+366,2021-4-13,Male,NA,76,"Some College, 1 or More Years, No Degree",45123.37,NA,79655,0,Strongly Agree
+367,2021-4-13,Female,White,31,"Some College, 1 or More Years, No Degree",17500.68,105,88084,1,Disagree
+368,2021-4-13,Male,White,46,"Some College, Less than 1 Year",38843.72,92,64432,1,Strongly Disagree
+369,2021-4-13,Male,NA,87,Associate's Degree,32663.84,NA,43027,2,Neutral
+370,2021-4-13,Male,Black,33,"Some College, 1 or More Years, No Degree",33030.81,NA,63569,0,Neutral
+371,2021-4-13,Female,Hispanic,64,"Some College, Less than 1 Year",71304.72,87,63569,2,Strongly Agree
+372,2021-4-13,Female,Hispanic,18,"9th Grade to 12th Grade, No Diploma",75352.98,NA,62890,4,Strongly Agree
+373,2021-4-13,Female,Black,NA,Regular High School Diploma,53514.96,NA,58980,0,Agree
+374,2021-4-13,Male,Hispanic,NA,Nursery School to 8th Grade,52177.36,NA,64432,0,Strongly Disagree
+375,2021-4-13,Male,White,20,"Some College, Less than 1 Year",55771.97,NA,63569,0,Disagree
+376,2021-4-13,Male,White,NA,"9th Grade to 12th Grade, No Diploma",1932.95,98,58980,2,Neutral
+377,2021-4-13,Female,White,69,Bachelor's Degree,29574.99,88,54436,3,Neutral
+378,2021-4-13,Female,NA,43,"Some College, 1 or More Years, No Degree",20635.52,NA,90070,5,Neutral
+379,2021-4-13,Female,Hispanic,62,No Schooling Completed,56687.83,NA,62890,4,Agree
+380,2021-4-13,Female,Hispanic,62,Regular High School Diploma,84590.47,NA,79655,0,Neutral
+381,2021-5-13,Male,White,53,Regular High School Diploma,42758.71,NA,43027,0,Disagree
+382,2021-5-13,Male,White,62,"Some College, Less than 1 Year",39935.19,120,90070,2,Agree
+383,2021-5-13,Male,NA,69,Bachelor's Degree,15064.11,86,24856,3,Agree
+384,2021-5-13,Male,NA,83,Bachelor's Degree,65236.37,91,62890,1,Disagree
+385,2021-5-13,Female,Black,39,Bachelor's Degree,84752.77,111,58980,8,Disagree
+386,2021-5-13,Female,White,57,NA,31506.07,NA,90070,4,Neutral
+387,2021-5-13,Male,White,27,"Some College, Less than 1 Year",46272.71,88,24856,1,Agree
+388,2021-5-13,Female,NA,37,Regular High School Diploma,113597.74,NA,88084,2,Disagree
+389,2021-5-13,Male,Hispanic,27,Bachelor's Degree,34307,NA,90070,6,Neutral
+390,2021-5-13,Male,White,38,GED or Alternative Credential,77623.47,NA,90070,2,Neutral
+391,2021-5-13,Female,Hispanic,28,Nursery School to 8th Grade,28650.67,NA,79655,3,Disagree
+392,2021-5-13,Male,Black,39,Bachelor's Degree,20491.7,NA,90070,0,Strongly Disagree
+393,2021-5-13,Female,Hispanic,49,"Some College, 1 or More Years, No Degree",31658.82,86,43027,0,Strongly Disagree
+394,2021-5-13,Female,Hispanic,34,GED or Alternative Credential,NA,112,62890,1,Disagree
+395,2021-5-13,Male,NA,26,"Some College, 1 or More Years, No Degree",52421.03,NA,43027,1,Strongly Disagree
+396,2021-5-13,Male,Asian,42,"Some College, Less than 1 Year",29907.57,NA,79655,3,Agree
+397,2021-5-13,Female,Black,45,Bachelor's Degree,33544.21,NA,79655,4,NA
+398,2021-5-13,Male,White,65,Regular High School Diploma,8501.44,NA,58980,3,Disagree
+399,2021-5-13,Female,White,30,Regular High School Diploma,10269.56,NA,54436,1,Neutral
+400,2021-5-13,Male,White,32,"Some College, 1 or More Years, No Degree",NA,90,24856,0,Strongly Disagree
+401,2021-5-13,Male,NA,80,Master's Degree,31730.49,NA,63569,0,Agree
+402,2021-5-13,Female,Black,73,GED or Alternative Credential,19413.61,NA,58980,2,Disagree
+403,2021-5-13,Male,White,70,"9th Grade to 12th Grade, No Diploma",80717.01,NA,90070,8,Strongly Disagree
+404,2021-5-13,Female,White,63,Bachelor's Degree,30579.15,NA,24856,1,Disagree
+405,2021-5-13,Female,White,47,"Some College, 1 or More Years, No Degree",18274.29,83,62890,1,Disagree
+406,2021-5-13,Male,White,21,"Some College, 1 or More Years, No Degree",47423.34,101,79655,0,Disagree
+407,2021-5-13,Female,White,71,Bachelor's Degree,34217.47,99,58980,0,Agree
+408,2021-5-13,Female,Hispanic,83,Regular High School Diploma,25545.94,NA,63569,2,Strongly Agree
+409,2021-5-13,Female,NA,44,"9th Grade to 12th Grade, No Diploma",NA,NA,88084,1,Agree
+410,2021-5-13,Male,Hispanic,NA,Regular High School Diploma,106885.46,95,64432,1,Neutral
+411,2021-5-13,Female,Black,89,"9th Grade to 12th Grade, No Diploma",72258.12,NA,79655,2,NA
+412,2021-5-13,Male,Black,32,Associate's Degree,81212.84,111,90070,0,Strongly Agree
+413,2021-5-13,Female,White,68,Regular High School Diploma,46606.46,NA,88084,2,Agree
+414,2021-5-13,Female,White,19,"9th Grade to 12th Grade, No Diploma",23565.16,115,62890,0,Strongly Disagree
+415,2021-5-13,Male,Hispanic,67,Bachelor's Degree,5261.46,NA,62890,4,Disagree
+416,2021-5-13,Male,White,26,Associate's Degree,42223.36,123,88084,1,Agree
+417,2021-5-13,Male,White,32,Bachelor's Degree,36945.8,NA,24856,4,Disagree
+418,2021-5-13,Male,NA,60,"9th Grade to 12th Grade, No Diploma",122873.09,NA,54436,0,Strongly Disagree
+419,2021-5-13,Female,Black,55,Bachelor's Degree,23498.34,NA,90070,1,Strongly Disagree
+420,2021-5-13,Male,NA,NA,"Some College, 1 or More Years, No Degree",13180.41,NA,58980,2,Strongly Agree
+421,2021-5-13,Male,White,36,Regular High School Diploma,55262.96,109,58980,1,Strongly Disagree
+422,2021-6-13,Female,NA,72,"Some College, 1 or More Years, No Degree",21585.71,102,88084,4,Agree
+423,2021-6-13,Male,Hispanic,28,"Some College, 1 or More Years, No Degree",50941.33,87,64432,0,Neutral
+424,2021-6-13,Female,NA,46,GED or Alternative Credential,42797.37,101,90070,2,Neutral
+425,2021-6-13,Male,White,77,Regular High School Diploma,13196.24,97,62890,0,Agree
+426,2021-6-13,Male,Black,50,Professional School Degree,42531.43,NA,63569,6,Neutral
+427,2021-6-13,Male,NA,43,Bachelor's Degree,58089.42,NA,54436,2,Strongly Agree
+428,2021-6-13,Male,NA,NA,"Some College, Less than 1 Year",60147.83,NA,64432,1,Strongly Agree
+429,2021-6-13,Male,Hispanic,63,"Some College, Less than 1 Year",26797.68,NA,63569,5,Agree
+430,2021-6-13,Female,White,NA,"9th Grade to 12th Grade, No Diploma",11615.35,111,62890,2,Agree
+431,2021-6-13,Female,Black,40,"9th Grade to 12th Grade, No Diploma",23616.86,NA,79655,2,Strongly Disagree
+432,2021-6-13,Male,Black,26,Regular High School Diploma,17350.67,NA,24856,6,Neutral
+433,2021-6-13,Male,White,NA,Master's Degree,58975.38,109,54436,2,NA
+434,2021-6-13,Female,Hispanic,79,"Some College, Less than 1 Year",36909.23,NA,62890,0,Neutral
+435,2021-6-13,Male,NA,83,Nursery School to 8th Grade,NA,93,63569,3,Neutral
+436,2021-6-13,Female,White,88,"Some College, 1 or More Years, No Degree",43378.66,NA,58980,2,Strongly Agree
+437,2021-6-13,Male,White,79,GED or Alternative Credential,12653.85,NA,62890,1,Neutral
+438,2021-6-13,Male,White,26,Doctorate Degree,17731.02,NA,24856,0,Agree
+439,2021-6-13,Male,Asian,40,Associate's Degree,22945.15,NA,43027,1,Neutral
+440,2021-6-13,Female,Black,63,Associate's Degree,132542.37,110,64432,1,Disagree
+441,2021-6-13,Female,Black,69,Regular High School Diploma,23741.67,NA,54436,4,Strongly Agree
+442,2021-6-13,Female,White,38,Bachelor's Degree,6972.35,NA,64432,2,Agree
+443,2021-6-13,Female,Bi-Racial,NA,"9th Grade to 12th Grade, No Diploma",48493.73,NA,63569,4,Agree
+444,2021-6-13,Male,White,NA,GED or Alternative Credential,3429.9,NA,24856,1,Agree
+445,2021-6-13,Female,White,74,Associate's Degree,10359.24,NA,62890,1,Strongly Disagree
+446,2021-6-13,Male,White,35,NA,51845.8,NA,62890,0,Neutral
+447,2021-6-13,Male,White,69,Regular High School Diploma,39870.11,108,79655,3,Agree
+448,2021-6-13,Male,White,37,Nursery School to 8th Grade,72842.16,NA,64432,0,Strongly Agree
+449,2021-6-13,Male,Black,63,GED or Alternative Credential,NA,NA,79655,6,Agree
+450,2021-6-13,Female,Black,NA,"9th Grade to 12th Grade, No Diploma",39109.06,NA,24856,0,Neutral
+451,2021-6-13,Male,White,55,GED or Alternative Credential,20998.75,NA,88084,3,Agree
+452,2021-6-13,Female,Black,79,NA,25855.38,NA,88084,3,Strongly Agree
+453,2021-6-13,Female,NA,89,"Some College, Less than 1 Year",48919.24,NA,64432,0,Agree
+454,2021-6-13,Male,White,56,Regular High School Diploma,41252.74,NA,90070,3,Agree
+455,2021-6-13,Female,White,85,"9th Grade to 12th Grade, No Diploma",54334.58,NA,54436,0,Strongly Disagree
+456,2021-6-13,Male,NA,38,Regular High School Diploma,6611.25,108,24856,1,Neutral
+457,2021-6-13,Male,Black,21,Professional School Degree,54206.57,NA,58980,4,Neutral
+458,2021-6-13,Male,NA,58,Bachelor's Degree,41689.31,NA,58980,0,Agree
+459,2021-6-13,Female,White,35,Bachelor's Degree,64660.74,NA,54436,1,Agree
+460,2021-6-13,Female,White,74,Regular High School Diploma,57300.01,NA,64432,8,Strongly Disagree
